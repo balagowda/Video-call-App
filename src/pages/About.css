@@ -1,0 +1,27 @@
+.about {
+  margin: 100px;
+  width: 80%;
+  display: flex;
+  background-color: #c9c7c7;
+  border-radius: 8px;
+}
+
+img {
+  width: 350px;
+  height: 300px;
+  border-radius: 70px;
+  padding: 25px;
+}
+
+.about-text {
+  padding-top: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  margin: 25px;
+}
+
+.about-para {
+  font-weight: 500;
+  font-size: medium;
+  color: grey;
+}
