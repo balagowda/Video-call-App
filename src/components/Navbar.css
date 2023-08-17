@@ -45,6 +45,7 @@
 
 .link-item:hover {
   color: red;
-  text-decoration: underline;
+  text-decoration:overline double;
+  /* text-decoration: double; */
 }
 
